@@ -1,20 +1,80 @@
-<h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">Welcome to my Github profile</h3>
+<h1 align="center">
+Hi, I'm Daniel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1darkz&label=Profile%20views&color=0e75b6&style=flat" alt="1darkz" /> </p>
+  
+  <h2 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+computer+science+student!;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1darkz" alt="1darkz" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/darkzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darkzz" height="30" width="40" /></a>
-</p>
+<!-- ## Contribution Snake  -->
+<!-- ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## My Tech Stack and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1darkz&show_icons=true&locale=en&layout=compact" alt="1darkz" /></p>
+### Programming Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1darkz&show_icons=true&locale=en" alt="1darkz" /></p>
+<p>
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1darkz&" alt="1darkz" /></p>
+<!-- <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
+<img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309413-7b484809-5133-4987-81c6-e49a446a9241.png"/> -->
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309317-5658f482-a85c-4b92-9191-d96626483ccf.png"/>
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"/>
+
+
+
+
+ <!-- ### Frameworks and Libraries
+
+<p>
+<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222308651-311347f3-c59c-4293-b9b6-28d79ffa0be4.png"/> -->
+
+### Software and Tools
+
+<p>
+           
+
+<!-- <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222308536-edb83973-50ab-42df-b2ab-1491d48a2904.png"/> -->
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg"/>
+<!-- <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg"/> -->
+
+
+
+
+
+
+
+
+	
+## GitHub Stats
+
+
+<!--|                                                                     My Stats                                                                     |-->
+|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+<!-- | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=1darkz&theme=react-dark&hide_border=true&area=true) | -->
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=1darkz&show_icons=true&theme=algolia)              | 
+<!--| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1darkz&theme=algolia)                    | -->
+    
+
+|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=1darkz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1darkz&langs_count=8&theme=algolia)
+	
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1darkz&label=Profile%20views&color=0e75b6&style=flat" alt="1darkz" /> </p> 
+
+<!-- ###### Some icons courtesy of [icons8](https://icons8.com/) -->
+
+------
+<!-- Credit: [Null3000](https://github.com/null3000) -->
+Last Edited on: 3/1/2023
